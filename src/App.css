@@ -9,10 +9,9 @@
 
 .tab-bar {
     top: 0;
-    width: 1000px;
     height: 300px;
 position: absolute;
-    left: 0;
+    left: 10%;
 }
 
 .tab {
